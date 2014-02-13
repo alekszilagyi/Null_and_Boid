@@ -7,6 +7,7 @@ using Microsoft.Xna.Framework;
 
 namespace WindowsGame1
 {
+	//adding a comment!
     /// <summary>
     /// A single boid entity
     /// </summary>
